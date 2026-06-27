@@ -189,4 +189,4 @@ Comprehensive department-level workforce analysis including:
 
 ## Author
 
-Ash — Data Analytics Graduate focused on SQL, Business Intelligence, and IT Analytics.
+Nur Alisha Sukri — Data Analytics Graduate focused on SQL, Business Intelligence, and IT Analytics.
